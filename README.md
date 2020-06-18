@@ -1,5 +1,13 @@
 # echarts 百分比图 (可二次开发)
 
+> 依赖于百度echarts 官网地址[传送门](https://echarts.apache.org/zh/index.html)
+
+### 安装 
+
+```
+npm install echarts --save
+```
+
 ### 调用方法（单独页面调用）
 
 > import 引用
